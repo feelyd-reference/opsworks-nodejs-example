@@ -9,7 +9,7 @@
     "typings": "~1.4.0",
     "gulp": "~3.9.1",
     "node-syslog": "~1.2.0",
-    "cld": "~2.4.7",
+    "cld": "~2.4.6",
     "time": "~0.11.4"
   },
   "devDependencies": {},
