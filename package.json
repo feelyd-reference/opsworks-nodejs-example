@@ -8,7 +8,8 @@
     "bigquery": "~0.0.6",
     "typings": "~1.4.0",
     "gulp": "~3.9.1",
-    "node-syslog": "~1.2.0"
+    "node-syslog": "~1.2.0",
+    "cld": "~2.4.7"
   },
   "devDependencies": {},
   "scripts": {
